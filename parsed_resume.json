@@ -1,0 +1,50 @@
+{
+  "name": "Joe Jobscan",
+  "location": "Seattle, WA",
+  "phone": "(206) 555-5555",
+  "email": "joe-jobscan@example.com",
+  "linkedin": "linkedin.com/in/joe-jobscan-123",
+  "skills summary": "A few sentences or bullet points listing off the most relevant hard skills and soft skills related to the position for which you’re applying.",
+  "professional accomplishments": [
+    {
+      "skill": "Management",
+      "details": "More detail of the skill and how it relates to the job application",
+      "projects/situations": "Examples of projects or situations that utilized this skill",
+      "results/accomplishments": "Measureable results and accomplishments that back up your ability"
+    },
+    {
+      "skill": "Management",
+      "details": "More detail of the skill and how it relates to the job application",
+      "projects/situations": "Examples of projects, measureable results, and accomplishments"
+    },
+    {
+      "skill": "Management",
+      "details": "More detail of the skill and how it relates to the job application",
+      "projects/situations": "Examples of projects, measureable results, and accomplishments"
+    }
+  ],
+  "work history": [
+    {
+      "position": "Position 1",
+      "company": "Company",
+      "dates": "Date Started - Date Ended"
+    },
+    {
+      "position": "Position 2",
+      "company": "Company",
+      "dates": "Date Started - Date Ended"
+    },
+    {
+      "position": "Position 3",
+      "company": "Company",
+      "dates": "Date Started - Date Ended"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Degree",
+      "school": "School",
+      "years": "Years"
+    }
+  ]
+}
